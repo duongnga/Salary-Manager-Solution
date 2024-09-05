@@ -46,3 +46,4 @@ $status = $kernel->handle(
 $kernel->terminate($input, $status);
 
 exit($status);
+/* Chuẩn bị cho CSDL SQL */
