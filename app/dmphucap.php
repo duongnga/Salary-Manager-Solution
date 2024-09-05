@@ -29,3 +29,4 @@ class dmphucap extends Model
     ];
 }
 /*các modul tính toán phụ cấp*/
+/*chú ý các loại phụ cấp có tính bảo hiểm, ko tính bảo hiểm, và lên dự toán*/
