@@ -1,6 +1,6 @@
 <?php
 
-/*
+/* Update Ver 2.0
  * This file is part of Composer.
  *
  * (c) Nils Adermann <naderman@naderman.de>
