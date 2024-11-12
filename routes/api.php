@@ -4,7 +4,7 @@ use Illuminate\Http\Request;
 
 /*
 |--------------------------------------------------------------------------
-| API Routes
+| API Routes Update Ver 2.0
 |--------------------------------------------------------------------------
 |
 | Here is where you can register API routes for your application. These
